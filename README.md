@@ -24,3 +24,4 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + The Concept, Rules and (initial) requirements
 + We’ll iterate around a loop while making this game
 + Constantly asking “what’s least fun”
++ Let’s find the essence of fun of this game.
